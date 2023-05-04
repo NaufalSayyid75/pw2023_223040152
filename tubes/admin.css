@@ -1,0 +1,40 @@
+*,html{
+    margin: 0;
+    padding: 0;
+    color: #ffff;
+}
+
+main{
+    background-color: #181818;
+    margin: 200px;
+    margin-left: 450px;
+    border-radius: 25px;
+    padding: 20px;
+    width: 50%;
+    background-image: url(../tubes/image/Background-head.jpg);
+    
+}
+
+a{
+    padding: 12px;
+    margin: 12px;
+}
+
+.colmn1{
+    display: flex;
+}
+
+textarea{
+    border-radius: 2px;
+    background-color: #3e3e3e;
+}
+
+.done-btn{
+    border-radius: 8px;
+    background: #3e3e3e;
+    color: white;
+    padding: 14px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 10%;
+}
